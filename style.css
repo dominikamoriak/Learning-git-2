@@ -1,9 +1,15 @@
 body {
     background-color:antiquewhite;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
 body p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.page-title {
+    background-color:azure;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 5px 15px black;
 }
